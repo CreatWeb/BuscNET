@@ -1,0 +1,42 @@
+O "BuscNet" V1
+---------------------------------------------------------
+
+Adicionei CSS: bootstrap & Style;
+Obs.: Não Muito Usado Mais Será Numa Nova Versão que ja Estou Montando...
+
+Organizei os aquivos;
+
+Mudei A Logo;
+Obs.: Para Alterar Tem Um Tutorial No "Leia-Me"
+      Caso Muda Gere Uma Nova: http://funnylogo.info/create.asp
+
+Alterei Os Class, Botão No Modo Invisível;
+
+Corrigi PHP De Data/Hora e Da função De Busca;
+
+Breve Mais...
+
+---------------------------------------------------------
+
+
+PARA GERA LOGO:
+
+1º Abrar o Atalho: Gerador De Logo
+
+2º Em "Step1: Digite O Nome Do Seu Site"
+              obs.: Se quiser altera a fonte veja em baixo em "Step2" caso não aperte enter
+
+3º Você será direcionado para uma pagina, nela vc vai clica botão direito do mouse e aperte "salva imagem como"
+
+4º vai abrir o selectPasta vc vai até onde ta seu script e vá ate a pasta "img" e salve em "logo.aspx"
+   e substitua...
+
+5º PRONTO :D
+
+----------------------------------------------------------
+
+Site 100% e configurado :D
+
+----------------------------------------------------------
+Att: Ewerson S.
+Qualquer duvida ou bug solecite ajuda me envie mensagem pelo "PHPBrasil" / Abrar o Atalho: Solicitar Suporte
