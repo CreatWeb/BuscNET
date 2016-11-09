@@ -1,3 +1,12 @@
+# Para Teste Usamos Servidores Da:
+<center>
+<a href='http://bit.ly/2fxfnxl'>
+<img src='http://image.prntscr.com/image/3f9b1ce0713b4e188d0bba58ca00c517.png' width='400' height='200' alt='Hosted by Umbler'>
+</a>
+</center>
+- Cliquem Na Image, Cadastre-se e ajuda-nós a manter o servidor ativo :)
+  *  Ganhe R$25 De Bonus + R$100 Na Instrução Para Manter Sites Online... *
+
 # BuscNET
 Mecanismo Simples De Busca Interna no Site Usando Um Array Para Acumular Os nomes Dos Arquivos A Serem Pesquisado.
 
